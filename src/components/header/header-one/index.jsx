@@ -8,7 +8,7 @@ const HeaderOneTop = () => {
                 <div className="col-lg-3 col-md-6 col-sm-6 order-1 order-lg-1">
                     <ul className="header-top-menu-list">
                         <li>
-                            <a href="/">Help</a>
+                            <a href="/">Main</a>
                         </li>
                         <li>
                             <a href="/">Status</a>
@@ -28,7 +28,7 @@ const HeaderOneTop = () => {
                                 />
                             </div>
                             <div className="header-top-contact-text text-size-small">
-                                <a href="tel:970262-1413">(970) 262-1413</a>
+                                <a href="tel:970262-1413">(919) 492-7125</a>
                             </div>
                         </div>
 
@@ -41,7 +41,7 @@ const HeaderOneTop = () => {
                             </div>
                             <div className="header-top-contact-text">
                                 <a href="mailto:address@gmail.com">
-                                    address@gmail.com
+                                    lindseykdev@gmail.com
                                 </a>
                             </div>
                         </div>
@@ -49,7 +49,7 @@ const HeaderOneTop = () => {
                 </div>
                 <div className="col-lg-3 col-md-6 col-sm-6 order-2 order-lg-3">
                     <div className="header-top-right-side">
-                        <p>Bangladesh</p>
+                        <p>Raleigh</p>
                         <div className="wayder">
                             <span className="wayder-icon">
                                 <img
@@ -57,7 +57,7 @@ const HeaderOneTop = () => {
                                     alt=""
                                 />
                             </span>
-                            <span className="wayder-text">28° C</span>
+                            <span className="wayder-text">16° F</span>
                         </div>
                     </div>
                 </div>
