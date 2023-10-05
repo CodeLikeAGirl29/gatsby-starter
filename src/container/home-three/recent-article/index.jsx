@@ -1,7 +1,7 @@
 import { graphql, useStaticQuery } from "gatsby";
 import { Col, Container, Row } from "react-bootstrap";
-import ReacentArticalPost from "../../../components/reacent-artical-post";
-import ReacentArticalVerticalPost from "../../../components/reacent-artical-vertical-post";
+import ReacentArticalPost from "../../../components/recent-article-post";
+import ReacentArticalVerticalPost from "../../../components/recent-article-verticle-post";
 import {
     RecentArticleArea,
     RecentArticleHeaderTwo,
